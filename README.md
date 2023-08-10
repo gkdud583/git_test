@@ -5,4 +5,4 @@
 2. ccc 기능 구현 - feat
 3. ddd 기능 구현 - feat
 4. 아주 사소한 변경사항 - chore
-5. 아주 사소한 변경사항2 - chore
+5. 아주 사소한 변경사항3 - chore
